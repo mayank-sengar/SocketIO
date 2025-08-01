@@ -1,0 +1,18 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing: border-box;
+}
+
+.socketform {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  
+}
+.socketform button {
+  background-color: red;
+  padding: 2px;
+}
